@@ -1,0 +1,4 @@
+# CloneAppTFlat
+react-native
+
+x
